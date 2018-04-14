@@ -9,7 +9,7 @@ public class Entry {
 	
 	@GetMapping("/hi")
 	public String hiThere(){
-		return "Hi, there! What's up!";
+		return "Hi, there! What's up over there!";
 	}
 
 }
